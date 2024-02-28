@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353951566948",
+    "project_id": "rt-todo-app",
+    "storage_bucket": "rt-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353951566948:android:9a45d91e7c598c5ca8a371",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pQq5g2KEri_xib8zcNe2J48rfBRJluE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
